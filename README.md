@@ -1,6 +1,6 @@
 # Olá, me chamo Clarice, muito prazer! 💜
 
-<p align="justify">Sou uma grande entusiasta da tecnologia e atualmente estou cursando Sistemas de Informação. Tenho conhecimento nas áreas de Front-end com as ferramentas HTML, CSS, SCSS e JS. E na área de Back-end com Java e Python. Possuo vasto interesse em processamento de imagens, onde atuo no meu atual projeto de pesquisa.</p>&nbsp;
+<p align="justify">Olá, me chamo Clarice, sou uma grande entusiasta da tecnologia e atualmente estou cursando Sistemas de Informação. Estou em busca de me especializar em Ciência de Dados, e meu objetivo é aprofundar meu conhecimento em Machine Learning e IA para contribuir com soluções inovadoras. Busco oportunidades que me permitam aplicar minhas habilidades em análise de dados para resolver problemas do mundo real.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=claricealvs&theme=radical&mode=weekly" />
