@@ -1,6 +1,6 @@
 # Olá, me chamo Clarice, muito prazer! 💜
 
-<p align="justify">Olá, me chamo Clarice, sou uma grande entusiasta da tecnologia e atualmente estou cursando Sistemas de Informação. Estou em busca de me especializar em Ciência de Dados, e meu objetivo é aprofundar meu conhecimento em Machine Learning e IA para contribuir com soluções inovadoras. Busco oportunidades que me permitam aplicar minhas habilidades em análise de dados para resolver problemas do mundo real.</p>&nbsp;
+<p align="justify">Sou uma grande entusiasta da tecnologia e atualmente estou cursando Sistemas de Informação. Estou em busca de me especializar em Ciência de Dados, e meu objetivo é aprofundar meu conhecimento em Machine Learning e IA para contribuir com soluções inovadoras. Busco oportunidades que me permitam aplicar minhas habilidades em análise de dados para resolver problemas do mundo real.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=claricealvs&theme=radical&mode=weekly" />
@@ -18,7 +18,6 @@
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -29,10 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### Estudando neste momento:
-
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 
 #### Databases:
 
